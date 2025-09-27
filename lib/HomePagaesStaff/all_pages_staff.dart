@@ -58,7 +58,6 @@ class _AllPagesState extends State<AllPagesStaff> {
       ),
       child: Scaffold(
         extendBody: true,
-
         bottomNavigationBar: DotNavigationBar(
           dotIndicatorColor: Colors.transparent,
           borderRadius: 20.r,
